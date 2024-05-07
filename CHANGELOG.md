@@ -1,7 +1,7 @@
 # Change Log
 all notable changes to this project will be documented in this file
 
-## 📦 [1.0](https://github.com/Anti-Coding-Coding-Club/template/releases/tag/1.0) release comment
+## 📦 [1.0](https://github.com/Anti-Coding-Coding-Club/astro/releases/tag/1.0) release comment
 
 <br/>
 
