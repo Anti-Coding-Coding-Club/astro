@@ -1,4 +1,4 @@
-# Code of Conduct
+# Code of ConducMachado
 
 the code of conduct governs how we behave in public or in private
 whenever the project will be judged by our actions.
